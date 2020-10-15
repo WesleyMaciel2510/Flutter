@@ -1,0 +1,12 @@
+void main() {
+  
+  bool isRaining = false;
+  bool isSnowing = true;
+  if (isRaining == true) {
+  print ("bringRainCoat");
+} else if (isSnowing) {
+  print ("wearJacket");
+} else {
+  print ("ops");
+}
+  }
